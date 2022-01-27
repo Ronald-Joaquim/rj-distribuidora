@@ -1,0 +1,19 @@
+header{
+    background: black;
+    height: 100px;
+    align-items: center;
+}
+
+.rj-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.rj-add{
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: #c2c2c2;
+    color: #fff;
+}
