@@ -5,6 +5,7 @@ header{
 }
 
 .rj-nav-content{
+    top: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,6 +15,7 @@ header{
 .rj-add{
     font-size: 18px;
     border-radius: 10px;
-    background-color: #c2c2c2;
+    background-color: #444444;
     color: #fff;
+
 }
